@@ -47,7 +47,7 @@
  *
  *  @return Returns a new text field.
  */
-+ (id) textFieldWithSpriteFrame:(CCSpriteFrame*)frame;
+//+ (id) textFieldWithSpriteFrame:(CCSpriteFrame*)frame;
 
 /**
  *  Initializes a text field with the specified sprite frame used as its background.
