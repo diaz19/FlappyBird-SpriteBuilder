@@ -159,7 +159,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>clouds</string>
+				<string>clouds1</string>
 				<key>memberVarAssignmentName</key>
 				<string>_cloud1</string>
 				<key>memberVarAssignmentType</key>
@@ -172,7 +172,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string></string>
+						<string>clouds1</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -267,7 +267,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>clouds</string>
+				<string>clouds2</string>
 				<key>memberVarAssignmentName</key>
 				<string>_cloud2</string>
 				<key>memberVarAssignmentType</key>
@@ -280,7 +280,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string></string>
+						<string>clouds2</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -375,7 +375,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>bush</string>
+				<string>bush1</string>
 				<key>memberVarAssignmentName</key>
 				<string>_bush1</string>
 				<key>memberVarAssignmentType</key>
@@ -388,7 +388,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string></string>
+						<string>bush1</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -483,7 +483,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>bush</string>
+				<string>bush2</string>
 				<key>memberVarAssignmentName</key>
 				<string>_bush2</string>
 				<key>memberVarAssignmentType</key>
@@ -496,7 +496,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string></string>
+						<string>bush2</string>
 					</dict>
 					<dict>
 						<key>name</key>
