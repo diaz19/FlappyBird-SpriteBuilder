@@ -29,7 +29,7 @@
 
 @class CCPlatformTextField;
 
-/**
+/*
  The CCTextField is used for editing text by encapsulating a native text field (NSTextField on Mac and UITextField on iOS). An action callback will be sent when the text finishes editing or if the return key is pressed.
  
  @warning The native text field is only translated, no other transformations are applied. The text field may not be displayed correctly if rotated or scaled.
