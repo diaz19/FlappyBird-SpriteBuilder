@@ -447,7 +447,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string></string>
+							<string>FlappyBirdArtPack/ground.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -472,6 +472,8 @@
 						<array/>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -555,7 +557,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string></string>
+							<string>FlappyBirdArtPack/bush.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -580,8 +582,6 @@
 						<array/>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
